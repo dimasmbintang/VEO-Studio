@@ -1,0 +1,8 @@
+{
+  "name": "Veo Studio - AI Video Generator",
+  "description": "Studio generator video AI berbasis Google Veo dengan mode unlimited, panduan prompt sinematik interaktif, dan kontrol kamera profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
